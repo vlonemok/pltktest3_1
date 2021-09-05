@@ -1,0 +1,2 @@
+$ ssh -L 80:localhost:80 my-gw-01.srv.dc2
+$ ssh -L 80:my-gw-01.srv.dc2:80 my-private-db.srv.dc2
